@@ -1,0 +1,14 @@
+names:
+- '0'
+- '1'
+- '2'
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: sperm-detection-visem
+  url: https://universe.roboflow.com/kate-nguyen-4fgsy/sperm-detection-visem/dataset/1
+  version: 1
+  workspace: kate-nguyen-4fgsy
+test: ../Validation/images
+train: ../Validation/images
+val: ../Validation/images
